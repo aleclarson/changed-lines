@@ -1,0 +1,10 @@
+{
+  "name": "changed-lines",
+  "version": "1.0.0",
+  "description": "Compare strings just like `git diff` does",
+  "dependencies": {
+    "diff-sequences": "^22.4.3"
+  },
+  "repository": "https://github.com/aleclarson/changed-lines.git",
+  "license": "MIT"
+}
